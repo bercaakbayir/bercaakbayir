@@ -62,6 +62,73 @@ class AIEngineer:
 
 </div>
 
+## 🔥 Most Contributed
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 [In RAG We Trust?](https://github.com/bercaakbayir/unimi-dse-nlp-assignment)
+<img src="https://img.shields.io/badge/commits-48-7c3aed?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-302b63?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-302b63?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM_Evaluation-302b63?style=flat-square"/>
+
+</td>
+<td width="50%">
+
+### 📦 [Algorithms for Massive Data](https://github.com/bercaakbayir/unimi-dse-amd-assignment)
+<img src="https://img.shields.io/badge/commits-29-7c3aed?style=flat-square"/>
+<img src="https://img.shields.io/badge/A--Priori-302b63?style=flat-square"/>
+<img src="https://img.shields.io/badge/SON-302b63?style=flat-square"/>
+<img src="https://img.shields.io/badge/Big_Data-302b63?style=flat-square"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧠 [Machine Learning Project](https://github.com/bercaakbayir/unimi-dse-ml-project)
+<img src="https://img.shields.io/badge/commits-20-7c3aed?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine_Learning-302b63?style=flat-square"/>
+<img src="https://img.shields.io/badge/Model_Evaluation-302b63?style=flat-square"/>
+
+</td>
+<td width="50%">
+
+### 🎯 [Hybrid Recommender System](https://github.com/bercaakbayir/hybrid-recommender-system)
+<img src="https://img.shields.io/badge/commits-17-7c3aed?style=flat-square"/>
+<img src="https://img.shields.io/badge/Recommender_Systems-302b63?style=flat-square"/>
+<img src="https://img.shields.io/badge/From_Scratch-302b63?style=flat-square"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🍽️ [Food Detection](https://github.com/bercaakbayir/food-detection)
+<img src="https://img.shields.io/badge/commits-10-7c3aed?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer_Vision-302b63?style=flat-square"/>
+<img src="https://img.shields.io/badge/Object_Detection-302b63?style=flat-square"/>
+<img src="https://img.shields.io/badge/Segmentation-302b63?style=flat-square"/>
+
+</td>
+<td width="50%">
+
+### 🔄 [Kafka ETL Pipeline](https://github.com/bercaakbayir/kafka-etl-pipeline)
+<img src="https://img.shields.io/badge/commits-10-7c3aed?style=flat-square"/>
+<img src="https://img.shields.io/badge/Apache_Kafka-302b63?style=flat-square"/>
+<img src="https://img.shields.io/badge/ETL-302b63?style=flat-square"/>
+<img src="https://img.shields.io/badge/Streaming-302b63?style=flat-square"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
 ## 📊 Analytics
 
 <div align="center">
