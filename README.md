@@ -68,16 +68,23 @@ class AIEngineer:
 ![OKD](https://img.shields.io/badge/OKD-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 ![Harbor](https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=harbor&logoColor=white)
 
-
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bercaakbayir&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercaakbayir&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bercaakbayir&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercaakbayir&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="170"/>
 
-<img src="https://streak-stats.demolab.com?user=bercaakbayir&theme=tokyonight&hide_border=true&background=00000000" alt="Streak" height="170"/>
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=bercaakbayir&theme=tokyonight&hide_border=true" alt="Streak" height="170"/>
+
+<br/><br/>
 
 <img src="https://ghchart.rshah.org/36BCF7/bercaakbayir" alt="Contribution graph" width="92%"/>
 
