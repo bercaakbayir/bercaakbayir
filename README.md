@@ -9,8 +9,7 @@
 <a href="https://www.linkedin.com/in/berca-akbayir-3351a8197/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" height="28"/></a>
 &nbsp;
 <a href="mailto:bercaakbayir@gmail.com"><img src="https://img.shields.io/badge/Email-2b2d42?style=flat-square&logo=gmail&logoColor=EA4335" height="28"/></a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=bercaakbayir&style=flat-square&color=7c3aed&label=views" height="28"/>
+
 
 </div>
 
@@ -69,11 +68,11 @@ class AIEngineer:
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bercaakbayir&theme=tokyonight" alt="GitHub stats" height="170"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bercaakbayir&theme=tokyonight" alt="Top languages" height="170"/>
+<img src="https://streak-stats.demolab.com?user=bercaakbayir&theme=tokyonight&hide_border=true" alt="Streak" height="170"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=bercaakbayir&theme=tokyonight&hide_border=true" alt="Streak" height="170"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bercaakbayir&theme=tokyo-night&hide_border=true&area=true&color=a78bfa&line=7c3aed&point=ffffff" alt="Contribution activity graph" width="92%"/>
 
 <br/><br/>
 
