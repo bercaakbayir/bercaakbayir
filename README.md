@@ -76,9 +76,9 @@ class AIEngineer:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bercaakbayir&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bercaakbayir&theme=tokyonight" alt="GitHub stats" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercaakbayir&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bercaakbayir&theme=tokyonight" alt="Top languages" height="170"/>
 
 <br/><br/>
 
