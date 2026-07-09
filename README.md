@@ -68,33 +68,7 @@ class AIEngineer:
 ![OKD](https://img.shields.io/badge/OKD-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 ![Harbor](https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=harbor&logoColor=white)
 
-</td>
-</tr>
-</table>
 
-## 🏆 Signature Work
-
-<table>
-<tr>
-<td width="50%">
-
-**🧠 [ML From Scratch](https://github.com/bercaakbayir/sl_and_ml_from_scratch)**
-<br/><sub>Statistical Learning & ML models built with pure NumPy — no black boxes.</sub>
-
-**🛰️ [Rocket Trajectory Control](https://github.com/bercaakbayir/rocket-trajectory-control-with-kalman-filter)**
-<br/><sub>Extended Kalman Filters + PID for real-time control systems.</sub>
-
-**🤖 [In RAG We Trust?](https://github.com/bercaakbayir/unimi-dse-nlp-assignment)**
-<br/><sub>Evaluating Retrieval-Augmented Generation reliability.</sub>
-
-</td>
-<td width="50%">
-
-
-
-</td>
-</tr>
-</table>
 
 ## 📊 GitHub Analytics
 
