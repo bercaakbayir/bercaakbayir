@@ -60,7 +60,7 @@ class AIEngineer:
 <img src="https://img.shields.io/badge/OKD-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white" height="26"/>
 <img src="https://img.shields.io/badge/Harbor-60B932?style=flat-square&logo=harbor&logoColor=white" height="26"/>
 
-
+</div>
 
 ## 📊 Analytics
 
@@ -73,10 +73,6 @@ class AIEngineer:
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bercaakbayir&theme=tokyo-night&hide_border=true&area=true&color=a78bfa&line=7c3aed&point=ffffff" alt="Contribution activity graph" width="92%"/>
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/7c3aed/bercaakbayir" alt="Contribution graph" width="92%"/>
 
 </div>
 
