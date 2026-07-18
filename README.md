@@ -15,7 +15,7 @@
 
 <br/>
 
-## 🧠 About
+## About
 
 ```python
 class AIEngineer:
@@ -62,26 +62,26 @@ class AIEngineer:
 
 </div>
 
-## 🚀 Projects
+## Projects
 
 <div align="center">
 
 | Domain | Project | Repo |
 |:--|:--|:--|
-| 🎮 **Reinforcement Learning** | RL assignment — agents, policies & value methods | [`unimi-dse-rl-assignment`](https://github.com/bercaakbayir/unimi-dse-rl-assignment) |
-| 🔍 **RAG / NLP** | Retrieval-Augmented Generation pipeline | [`unimi-dse-nlp-assignment`](https://github.com/bercaakbayir/unimi-dse-nlp-assignment) |
-| 🧮 **Frequent Itemset Mining & Memory Management** | Algorithms for massive datasets | [`unimi-dse-amd-assignment`](https://github.com/bercaakbayir/unimi-dse-amd-assignment) |
-| 🧠 **ML from Scratch** | Statistical & machine learning, no frameworks | [`sl_and_ml_from_scratch`](https://github.com/bercaakbayir/sl_and_ml_from_scratch) |
-| 🔥 **DL from Scratch** | Image classification built ground-up | [`image-classification`](https://github.com/bercaakbayir/image-classification) |
-| 👁️ **Computer Vision** | Food detection & recognition | [`food-detection`](https://github.com/bercaakbayir/food-detection) |
-| 🎯 **Recommendation Systems** | Hybrid recommender engine | [`hybrid-recommender-system`](https://github.com/bercaakbayir/hybrid-recommender-system) |
-| 🚀 **Control & Dynamic Modeling** | Rocket trajectory control w/ Kalman filter | [`rocket-trajectory-control-with-kalman-filter`](https://github.com/bercaakbayir/rocket-trajectory-control-with-kalman-filter) |
-| 🕸️ **Graph ML** | Network science & graph learning | [`unimi-dse-ns-assignment`](https://github.com/bercaakbayir/unimi-dse-ns-assignment) |
+| **Reinforcement Learning** | Q-Learning, Linear VFA, DQN | [`unimi-dse-rl-assignment`](https://github.com/bercaakbayir/unimi-dse-rl-assignment) |
+| **RAG** | Retrieval-Augmented Generation pipeline | [`unimi-dse-nlp-assignment`](https://github.com/bercaakbayir/unimi-dse-nlp-assignment) |
+| **Frequent Itemset Mining & Memory Management** | Algorithms for massive datasets | [`unimi-dse-amd-assignment`](https://github.com/bercaakbayir/unimi-dse-amd-assignment) |
+| **ML from Scratch** | Statistical & machine learning, no frameworks | [`sl_and_ml_from_scratch`](https://github.com/bercaakbayir/sl_and_ml_from_scratch) |
+| **DL from Scratch** | Image classification built ground-up | [`image-classification`](https://github.com/bercaakbayir/image-classification) |
+| **Computer Vision** | Object Detection & Image Segmentation | [`food-detection`](https://github.com/bercaakbayir/food-detection) |
+| **Recommendation Systems** | Hybrid recommender engine | [`hybrid-recommender-system`](https://github.com/bercaakbayir/hybrid-recommender-system) |
+| **Control & Automation/Dynamic Modeling** | Rocket control w/ Kalman filter and PID | [`rocket-trajectory-control-with-kalman-filter`](https://github.com/bercaakbayir/rocket-trajectory-control-with-kalman-filter) |
+| 🕸️ **Graph ML** | Graph Based Recommendation Engine | [`unimi-dse-ns-assignment`](https://github.com/bercaakbayir/unimi-dse-ns-assignment) |
 | ⚙️ **Data Engineering** | Kafka-based ETL streaming pipeline | [`kafka-etl-pipeline`](https://github.com/bercaakbayir/kafka-etl-pipeline) |
 
 
 
-## 📊 Analytics
+## Analytics
 
 <div align="center">
 
