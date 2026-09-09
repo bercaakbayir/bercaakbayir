@@ -75,9 +75,9 @@ class AIEngineer:
 | **DL from Scratch** | Image classification built ground-up | [`image-classification`](https://github.com/bercaakbayir/image-classification) |
 | **Computer Vision** | Object Detection & Image Segmentation | [`food-detection`](https://github.com/bercaakbayir/food-detection) |
 | **Recommendation Systems** | Hybrid recommender engine | [`hybrid-recommender-system`](https://github.com/bercaakbayir/hybrid-recommender-system) |
-| **Control & Automation/Dynamic Modeling** | Rocket control w/ Kalman filter and PID | [`rocket-trajectory-control-with-kalman-filter`](https://github.com/bercaakbayir/rocket-trajectory-control-with-kalman-filter) |
-| 🕸️ **Graph ML** | Graph Based Recommendation Engine | [`unimi-dse-ns-assignment`](https://github.com/bercaakbayir/unimi-dse-ns-assignment) |
-| ⚙️ **Data Engineering** | Kafka-based ETL streaming pipeline | [`kafka-etl-pipeline`](https://github.com/bercaakbayir/kafka-etl-pipeline) |
+| **Control & Automation/Dynamic Modeling** | Rocket control w/ Extended Kalman filter and PID | [`rocket-trajectory-control-with-kalman-filter`](https://github.com/bercaakbayir/rocket-trajectory-control-with-kalman-filter) |
+| **Graph ML** | Graph Based Recommendation Engine | [`unimi-dse-ns-assignment`](https://github.com/bercaakbayir/unimi-dse-ns-assignment) |
+| **Data Engineering** | Kafka-based ETL streaming pipeline | [`kafka-etl-pipeline`](https://github.com/bercaakbayir/kafka-etl-pipeline) |
 
 
 
